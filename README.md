@@ -52,8 +52,10 @@
 | [👗 Myntra Sales & Customer Behavior Analysis](https://github.com/ShaliniSakthivel-DA/Myntra-Sales-Customer-Behavior-Analysis-Excel) | Excel deep-dive into purchase patterns by gender, pricing, brand performance & customer ratings |
 | [🚲 Smart City Bike-Sharing Analysis](https://github.com/ShaliniSakthivel-DA/Smart-City-Bike-Sharing-Analysis---PowerBI) | Power BI dashboard on bike availability, station performance & utilization efficiency |
 | [📱 Smartphone Usage & Addiction Analysis](https://github.com/ShaliniSakthivel-DA/Smartphone-Usage-Addiction-Analysis-Excel) | Segmentation dashboard across 7,500 users by age, gender & usage intensity |
-| [🧮 SQL Practice Challenges](https://github.com/ShaliniSakthivel-DA/SQL-Practice-Challenges) | Structured SQL prep — DDL, DML, Constraints, Joins, Subqueries & real scenarios |
-
+| [🗽 NYC 311 Service Request Analysis (Python & Power BI)](https://github.com/ShaliniSakthivel-DA/NYC-311-Service-Request-Analysis-Python-PowerBI) | Analyzes NYC 311 service requests using Python & Power BI to uncover complaint trends, borough insights, agency performance & interactive dashboards |
+| [🎓 Online Course Sales Analysis (SQL & Tableau)](https://github.com/ShaliniSakthivel-DA/Online-Course-Sales-Analysis-using-SQL-and-Tableau) | Interactive Tableau dashboard analyzing online course sales, revenue trends & customer insights using SQL |
+| [📚 E-Learning Platform Purchase Analysis (SQL)](https://github.com/ShaliniSakthivel-DA/E-Learning-Platform-Purchase-Analysis-Using-SQL) | SQL-based analysis of learners, courses & purchases using joins, aggregations and business-focused queries |
+| [🧮 SQL Practice Challenges](https://github.com/ShaliniSakthivel-DA/SQL-Practice-Challenges) | Structured SQL practice covering DDL, DML, Constraints, Joins, Subqueries & real-world business scenarios |
 <br>
 
 ### 📈 GitHub Stats
