@@ -17,7 +17,7 @@
 
 - 🔎 **Data Analyst** transitioning from a 3-year **Application Support** background at **Infosys**
 - 📊 I turn messy, real-world data into dashboards and insights that drive decisions
-- 🧰 Currently hands-on with **Excel, SQL, Power BI, and Python**
+- 🧰 Currently hands-on with **Excel, Power BI, Tableau, Google Looker, SQL and Python**
 - 📍 Based in Chennai, India
 - 🎯 Actively looking for Data Analyst roles where I can apply analytical rigor from my support background
 - 💬 Ask me about: Pivot Tables, DAX, Power Query, SQL Joins/Subqueries, Data Storytelling
