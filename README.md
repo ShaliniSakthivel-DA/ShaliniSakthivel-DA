@@ -38,7 +38,6 @@
 ![Numpy](https://img.shields.io/badge/Numpy-150458?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-
 </div>
 
 <br>
@@ -70,15 +69,6 @@
 </div>
 
 ---
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ShaliniSakthivel-DA/ShaliniSakthivel-DA/output/github-contribution-grid-snake.svg" width="100%" />
-</div>
-
----
-
 <div align="center">
 
 ### 📫 Let's Connect
