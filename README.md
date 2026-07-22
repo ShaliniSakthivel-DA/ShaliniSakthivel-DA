@@ -58,7 +58,7 @@
 | [🧮 SQL Practice Challenges](https://github.com/ShaliniSakthivel-DA/SQL-Practice-Challenges) | Structured SQL practice covering DDL, DML, Constraints, Joins, Subqueries & real-world business scenarios |
 <br>
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShaliniSakthivel-DA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
@@ -69,19 +69,28 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaliniSakthivel-DA&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
-<br>
+---
 
-### 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ShaliniSakthivel-DA/ShaliniSakthivel-DA/output/github-contribution-grid-snake.svg" width="100%" />
 </div>
 
-<br>
+---
 
 <div align="center">
 
-📫 **Let's connect** — always open to Data Analyst opportunities & collaborations!
+### 📫 Let's Connect
+
+💼 **Open to Data Analyst, Power BI Developer & Business Intelligence opportunities**
+
+<a href="https://www.linkedin.com/in/shalini-sakthivel-b5b6ba18a">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
 
 </div>
-
